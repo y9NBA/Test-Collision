@@ -1,5 +1,5 @@
 import pygame as pg
-import pygame.display
+
 from  colors import color
 from Rectangle import *
 
